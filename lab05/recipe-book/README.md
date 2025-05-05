@@ -93,18 +93,23 @@ CSS-оформление встроено в шаблон `layout.php`. Испо
 ## Пример работы сайта
 
 - Главная страница с рецептами:
+
 ![image](https://i.imgur.com/LRbqouS.png)
 
 - Открытая информация о рецепте:
+
 ![image](https://i.imgur.com/xpyr1qq.png)
 
 - Страница редактирования рецепта:
+
 ![image](https://i.imgur.com/6ll1eXg.png)
 
 - Что происходит после нажатия кнопки "Удалить"
+
 ![image](https://i.imgur.com/vJnZ0BC.png)
 
 - Страница добавления рецепта:
+
 ![image](https://i.imgur.com/oJw5cgW.png)
 
 ---
